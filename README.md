@@ -1,6 +1,6 @@
 # GlobalBank Mainframe Lab — COBOL / CICS / DB2 / z/OS
 
-Projeto de portfólio orientado aos conhecimentos da oportunidade **Analista Desenvolvedor COBOL Pleno — Globalweb**.
+Projeto de portfólio orientado aos conhecimentos da oportunidade **Analista Desenvolvedor COBOL **.
 
 > **Objetivo:** demonstrar, em um único caso de uso, raciocínio de desenvolvimento e sustentação mainframe: COBOL online e batch, CICS, DB2, JCL, VSAM, MQ, CICS Web, SOA, Control-M, Connect:Direct, troubleshooting, performance, DevOps e documentação das ferramentas IBM/Broadcom/BMC citadas na vaga.
 
